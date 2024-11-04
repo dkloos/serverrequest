@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Server Request">862e779383e51210e0fd9529feaad30e</sc_cat_item>
+        <sc_category display_value="Virtual Resources">566c3007c3413000ed4860eb5bba8f7e</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 12:40:38</sys_created_on>
+        <sys_id>7154106383691210e0fd9529feaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual Resources.Server Request</sys_name>
+        <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+        <sys_update_name>sc_cat_item_category_7154106383691210e0fd9529feaad306</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 12:40:38</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</application>
+        <file_path/>
+        <instance_id>32a2668ddb12391c37d72a59139619a1</instance_id>
+        <instance_name>dev201561</instance_name>
+        <name>sc_cat_item_category_7154106383691210e0fd9529feaad306</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Server Request">862e779383e51210e0fd9529feaad30e</sc_cat_item><sc_category display_value="Virtual Resources">566c3007c3413000ed4860eb5bba8f7e</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-04 12:40:38</sys_created_on><sys_id>7154106383691210e0fd9529feaad306</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Virtual Resources.Server Request</sys_name><sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package><sys_policy/><sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope><sys_update_name>sc_cat_item_category_7154106383691210e0fd9529feaad306</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-04 12:40:38</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1457042343</payload_hash>
+        <record_name>Virtual Resources.Server Request</record_name>
+        <reverted_from/>
+        <source>62c05ceb83291210e0fd9529feaad391</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 12:40:38</sys_created_on>
+        <sys_id>f954106383691210e0fd9529feaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192f73107d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 12:40:38</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3d5410637c6912100e387d4f819e2609</update_guid>
+        <update_guid_history>3d5410637c6912100e387d4f819e2609:-1457042343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Virtual Resources.Server Request">692618e383691210e0fd9529feaad3f8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 12:48:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>5f75a43c54ac4eaa9c59d04df8f77684</sys_id>
+        <sys_metadata>7154106383691210e0fd9529feaad306</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual Resources.Server Request</sys_name>
+        <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+        <sys_scope_delete display_value="">05704ac9ba9e487f80b6bfc2cf335d51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7154106383691210e0fd9529feaad306</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7154106383691210e0fd9529feaad306">f954106383691210e0fd9529feaad30a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 12:48:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

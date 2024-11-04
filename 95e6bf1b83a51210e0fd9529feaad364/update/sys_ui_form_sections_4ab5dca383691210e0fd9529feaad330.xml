@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4ab5dca383691210e0fd9529feaad330" sys_domain="global" table="x_1520697_server_0_serverrequest" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:46:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56b5dca383691210e0fd9529feaad333</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1520697_server_0_serverrequest" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">4ab5dca383691210e0fd9529feaad330</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c6b5dca383691210e0fd9529feaad32e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:46:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:46:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92b5dca383691210e0fd9529feaad334</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1520697_server_0_serverrequest" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">4ab5dca383691210e0fd9529feaad330</sys_ui_form>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:46:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:46:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ab5dca383691210e0fd9529feaad337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1520697_server_0_serverrequest" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">4ab5dca383691210e0fd9529feaad330</sys_ui_form>
+            <sys_ui_section caption="Costs and Approval Information" display_value="Costs and Approval Information" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">ceb5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:46:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a016d4e383691210e0fd9529feaad326</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1520697_server_0_serverrequest" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">4ab5dca383691210e0fd9529feaad330</sys_ui_form>
+            <sys_ui_section caption="Server &amp; Cloud section" display_value="Server &amp; Cloud section" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">6c16d4e383691210e0fd9529feaad30a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1520697_server_0_serverrequest</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:46:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ab5dca383691210e0fd9529feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1520697_server_0_serverrequest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4ab5dca383691210e0fd9529feaad330</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:46:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="review" name="review">42b59ca383691210e0fd9529feaad3df</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

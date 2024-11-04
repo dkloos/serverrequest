@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="5dad775383e51210e0fd9529feaad380" label="serverrequest" max_length="40" name="x_1520697_server_0_serverrequest" type="collection">
-        <element label="SAC_contact" max_length="40" name="sac_contact" type="email"/>
+        <element default="Mail Address" label="SAC_contact" max_length="40" name="sac_contact" type="email"/>
+        <element label="Cost Center Owner" max_length="40" name="cost_center_owner" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Network Segment" mandatory="true" max_length="40" name="network_segment" type="choice">
             <choice>
                 <element inactive_on_update="false" label="No Segmentation ( Shared Network)" value="no_segmentation_shared_network"/>
@@ -15,9 +16,9 @@
         <element label="Multiplicator for redundancy" max_length="40" name="multiplicator_for_redundancy" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Location" mandatory="true" max_length="40" name="location" type="choice">
             <choice>
-                <element inactive_on_update="false" label="FLG - HQ" value="clu_hai_local"/>
-                <element inactive_on_update="false" label="FLG - Demo (3 Month)" value="_clu_hai_local"/>
-                <element inactive_on_update="false" label="FLG - Mirror" value="_clu_haiher"/>
+                <element inactive_on_update="false" label="FLG - HQ " sequence="0" value="clu_hai_local"/>
+                <element inactive_on_update="false" label="FLG - Demo (3 Month)" sequence="2" value="_clu_hai_local"/>
+                <element inactive_on_update="false" label="FLG - Mirror" sequence="1" value="_clu_haiher"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Next Review" max_length="40" name="next_review" type="glide_date"/>

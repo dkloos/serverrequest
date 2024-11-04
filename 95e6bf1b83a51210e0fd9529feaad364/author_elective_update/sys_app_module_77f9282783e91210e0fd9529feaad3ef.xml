@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Server 0 1730729712634</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1520697_server_0_1730729712634</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 14:15:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77f9282783e91210e0fd9529feaad3ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Server 0 1730729712634</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+        <sys_update_name>sys_app_module_77f9282783e91210e0fd9529feaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 14:15:15</sys_updated_on>
+        <timeline_page/>
+        <title>Server 0 1730729712634</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</application>
+        <file_path/>
+        <instance_id>32a2668ddb12391c37d72a59139619a1</instance_id>
+        <instance_name>dev201561</instance_name>
+        <name>sys_app_module_77f9282783e91210e0fd9529feaad3ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Server 0 1730729712634</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1520697_server_0_1730729712634</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-04 14:15:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>77f9282783e91210e0fd9529feaad3ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Server 0 1730729712634</sys_name><sys_overrides/><sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package><sys_policy/><sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope><sys_update_name>sys_app_module_77f9282783e91210e0fd9529feaad3ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-04 14:15:15</sys_updated_on><timeline_page/><title>Server 0 1730729712634</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1537678387</payload_hash>
+        <record_name>Server 0 1730729712634</record_name>
+        <reverted_from/>
+        <source>62c05ceb83291210e0fd9529feaad391</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 14:15:15</sys_created_on>
+        <sys_id>37f9282783e91210e0fd9529feaad3f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192f787a69b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 14:15:15</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f7f9282759e91210e33b2c1e448f9ef2</update_guid>
+        <update_guid_history>f7f9282759e91210e33b2c1e448f9ef2:1537678387</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Server 0 1730729712634">c22aac2783e91210e0fd9529feaad325</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 14:15:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>04355599849f428899644a7719eb6a64</sys_id>
+        <sys_metadata>77f9282783e91210e0fd9529feaad3ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Server 0 1730729712634</sys_name>
+        <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+        <sys_scope_delete display_value="">05704ac9ba9e487f80b6bfc2cf335d51</sys_scope_delete>
+        <sys_update_name>sys_app_module_77f9282783e91210e0fd9529feaad3ef</sys_update_name>
+        <sys_update_version display_value="sys_app_module_77f9282783e91210e0fd9529feaad3ef">37f9282783e91210e0fd9529feaad3f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 14:15:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

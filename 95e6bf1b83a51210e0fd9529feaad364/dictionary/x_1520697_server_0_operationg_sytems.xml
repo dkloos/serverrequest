@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="66f6682383e91210e0fd9529feaad36a" label="Operating sytems" max_length="40" name="x_1520697_server_0_operationg_sytems" type="collection">
+        <element label="Template" max_length="40" name="template_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Display_name" max_length="40" name="display_name" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

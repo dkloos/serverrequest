@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ec2ae82783e91210e0fd9529feaad376" label="locations" max_length="40" name="x_1520697_server_0_locations" type="collection">
+        <element label="Cost core monthly" max_length="38" name="cost_core_monthly" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Cluster" max_length="40" name="cluster" type="string"/>
+        <element label="Cost hypvervisor license core monthly" max_length="38" name="cost_hypvervisor_license_core_monthly" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Automatic installation" max_length="40" name="automatic_installation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Network" max_length="40" name="network" type="string"/>
+        <element label="Cost memory gb monthly" max_length="38" name="cost_memory_gb_monthly" type="decimal"/>
+        <element label="Multiplicator redundancy" max_length="38" name="multiplicator_redundancy" type="decimal"/>
+        <element label="Cost backup general" max_length="38" name="cost_backup_general" type="decimal"/>
+        <element label="Cost backup gb monthly" max_length="38" name="cost_backup_gb_monthly" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Datastore" max_length="40" name="datastore" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost global" max_length="40" name="cost_global" type="string"/>
+        <element label="Cost storage gb monthly" max_length="38" name="cost_storage_gb_monthly" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

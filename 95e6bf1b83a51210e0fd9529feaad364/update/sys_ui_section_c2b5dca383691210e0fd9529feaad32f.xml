@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Technical informations" section_id="c2b5dca383691210e0fd9529feaad32f" sys_domain="global" table="x_1520697_server_0_serverrequest" version="3" view="review">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>backup</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>e416d4e383691210e0fd9529feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>server_memory_gb</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2416d4e383691210e0fd9529feaad356</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>server_cpu</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2c16d4e383691210e0fd9529feaad356</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>availability</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2416d4e383691210e0fd9529feaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disk_size_gb</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2c16d4e383691210e0fd9529feaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>network_segment</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2416d4e383691210e0fd9529feaad358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comment</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2c16d4e383691210e0fd9529feaad358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2416d4e383691210e0fd9529feaad359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>auto_patch</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2c16d4e383691210e0fd9529feaad359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maint_window</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:48:12</sys_created_on>
+            <sys_id>2416d4e383691210e0fd9529feaad35a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Technical informations" display_value="Technical informations" name="x_1520697_server_0_serverrequest" sys_domain="global" view="42b59ca383691210e0fd9529feaad3df">c2b5dca383691210e0fd9529feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:48:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Technical informations</caption>
+            <header>false</header>
+            <name>x_1520697_server_0_serverrequest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-04 12:46:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2b5dca383691210e0fd9529feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1520697_server_0_serverrequest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+            <sys_update_name>sys_ui_section_c2b5dca383691210e0fd9529feaad32f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-04 12:46:39</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="review" name="review">42b59ca383691210e0fd9529feaad3df</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
