@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="disk_size_gb" label="Disk Size [GB]" language="en" table="x_1520697_server_0_serverrequest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>disk_size_gb</element>
+            <help/>
+            <hint/>
+            <label>Disk Size [GB]</label>
+            <language>en</language>
+            <name>x_1520697_server_0_serverrequest</name>
+            <plural>Disk Size [GB]s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2024-11-04 11:01:29</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Disk Size [GB]</sys_name>
+            <sys_package display_value="Server Request" source="x_1520697_server_0">95e6bf1b83a51210e0fd9529feaad364</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Server Request">95e6bf1b83a51210e0fd9529feaad364</sys_scope>
+            <sys_update_name>sys_documentation_x_1520697_server_0_serverrequest_disk_size_gb_en</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2024-11-04 11:07:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

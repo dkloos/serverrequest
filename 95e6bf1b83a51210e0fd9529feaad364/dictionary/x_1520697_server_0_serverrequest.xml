@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5dad775383e51210e0fd9529feaad380" label="serverrequest" max_length="40" name="x_1520697_server_0_serverrequest" type="collection">
+        <element label="SAC_contact" max_length="40" name="sac_contact" type="email"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Network Segment" mandatory="true" max_length="40" name="network_segment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No Segmentation ( Shared Network)" value="no_segmentation_shared_network"/>
+                <element inactive_on_update="false" label="DMZ " value="dmz"/>
+                <element inactive_on_update="false" label="SAP Application" value="sap_application"/>
+                <element inactive_on_update="false" label="New Segment" value="new_segment"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Approver" max_length="40" name="approver" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost hypvervisor license core monthly" max_length="20" name="cost_hypvervisor_license_core_monthly" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element label="Multiplicator for redundancy" max_length="40" name="multiplicator_for_redundancy" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Location" mandatory="true" max_length="40" name="location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="FLG - HQ" value="clu_hai_local"/>
+                <element inactive_on_update="false" label="FLG - Demo (3 Month)" value="_clu_hai_local"/>
+                <element inactive_on_update="false" label="FLG - Mirror" value="_clu_haiher"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Next Review" max_length="40" name="next_review" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester Name" max_length="40" name="requester_name" type="string"/>
+        <element label="Auto Patch" mandatory="true" max_length="40" name="auto_patch" type="boolean"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost memory gb monthly" max_length="20" name="cost_memory_gb_monthly" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Backup" mandatory="true" max_length="40" name="backup" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="active" value="active"/>
+                <element inactive_on_update="false" label="paused" value="paused"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Estimated_costs" max_length="20" name="estimated_costs" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost core monthly" max_length="20" name="cost_core_monthly" type="price"/>
+        <element active="false" attributes="edge_encryption_enabled=true" choice="1" label="Company" mandatory="true" max_length="40" name="company" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="LKH" sequence="3" value="lkh"/>
+                <element inactive_on_update="false" label="Loh Services" sequence="4" value="loh_services"/>
+                <element inactive_on_update="false" label="Eplan" sequence="1" value="eplan"/>
+                <element inactive_on_update="false" label="Rittal" sequence="5" value="rittal"/>
+                <element inactive_on_update="false" label="FLG" sequence="2" value="flg"/>
+                <element inactive_on_update="false" label="Cideon" sequence="0" value="cideon"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="OperatingSystem" mandatory="true" max_length="40" name="operatingsystem" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Windows Server (Latest)" value="windows_server_2022"/>
+                <element inactive_on_update="false" label="SLES (Latest)" value="sles_15"/>
+                <element inactive_on_update="false" label="Ubuntu (Latest)" value="ubuntu_latest"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Server Type" mandatory="true" max_length="40" name="server_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Physical Server" sequence="1" value="physical_server"/>
+                <element inactive_on_update="false" label="Virtual Server" sequence="0" value="virtual_server"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Environment" mandatory="true" max_length="40" name="environment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Production" value="prod"/>
+                <element inactive_on_update="false" label="Quality" value="qua"/>
+                <element inactive_on_update="false" label="Research &amp; Development" value="dev"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Purpose" mandatory="true" max_length="40" name="purpose" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="40" name="comment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Availability" mandatory="true" max_length="40" name="availability" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Local (in one location)" value="local"/>
+                <element inactive_on_update="false" label="Mirror (data is syncronized between location)" value="mirror"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Server CPU" mandatory="true" max_length="40" name="server_cpu" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="8" sequence="5" value="8"/>
+                <element inactive_on_update="false" label="16" sequence="0" value="16"/>
+                <element inactive_on_update="false" label="32" sequence="2" value="32"/>
+                <element inactive_on_update="false" label="64" sequence="4" value="64"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost backup general" max_length="20" name="cost_backup_general" type="price"/>
+        <element default="50" label="Disk Size [GB]" mandatory="true" max_length="40" name="disk_size_gb" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Storage Location" max_length="40" name="storage_location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="DS-CLU-HAI-LINUX" value="ds_clu_hai_linux"/>
+                <element inactive_on_update="false" label=" esxi-azubi-hai01-datastore1" value="_esxi_azubi_hai01_datastore1"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost backup gb monthly" max_length="20" name="cost_backup_gb_monthly" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="4" display="true" label="Server Memory [GB]" mandatory="true" max_length="40" name="server_memory_gb" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="16" sequence="0" value="16"/>
+                <element inactive_on_update="false" label="32" sequence="2" value="32"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="64" sequence="4" value="64"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="8" sequence="5" value="8"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost storage gb monthly" max_length="20" name="cost_storage_gb_monthly" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="ServerName" max_length="40" name="servername" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Maint Window" mandatory="true" max_length="40" name="maint_window" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mo 00-24" value="mo_00_24"/>
+                <element inactive_on_update="false" label="Su 00-24" value="su_00_24"/>
+                <element inactive_on_update="false" label="Su 06-22" value="su_06_22"/>
+            </choice>
+        </element>
+        <element default="Enter your Mail Address" label="Application Owner" mandatory="true" max_length="40" name="application_owner" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost Center" max_length="40" name="cost_center" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
